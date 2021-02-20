@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_0_0.unity
+    guid: 008a234e45b653441a895c4ec5311acc
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_0_1.unity
+    guid: 7bfebd589578e6e419b70de306c942a3
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_0_2.unity
+    guid: 3171af297844c5649a1652d516bbea60
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_1_0.unity
+    guid: 05d84fc7e5ae5e840b5de8d847cea5f8
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_1_1.unity
+    guid: f6ff6a786c8cc3143b2754c9fc7e4ec9
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_1_2.unity
+    guid: bafef2d62b479d84a8bcba4e10b97028
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_2_0.unity
+    guid: 373bd17dfa1af614ab7ba0851340ddd9
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_2_1.unity
+    guid: 23f9c0e3edca5924f941566f5874e26a
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_0_2_2.unity
+    guid: aeb3a3e22e872564a855c2fe07405277
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_0_0.unity
+    guid: 565c5dfef7036774c997fc6cd050df0a
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_0_1.unity
+    guid: c964924ed780b4345ba2e41d74c924fc
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_0_2.unity
+    guid: 34bffc5e4ff2e064f8384a58b0e429bd
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_1_0.unity
+    guid: a4ffdf3f8672cca40b3bf79bf0715100
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_1_1.unity
+    guid: 50b5a2d1cb1dc5e479b162ab117b80d4
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_1_2.unity
+    guid: e217da2e71c91ff48a00669a538da5f7
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_2_0.unity
+    guid: 42c3c834c43913f48a839911016f5732
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_2_1.unity
+    guid: de42b829240ac864fb72e37e70fc8a61
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_1_2_2.unity
+    guid: 7f6500f0172b8684aa5dfa5c47566206
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_0_0.unity
+    guid: 53f6e0f2220997e4c8dee4948c840031
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_0_1.unity
+    guid: ace5c82f66a2715418e50b72e6b4243a
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_0_2.unity
+    guid: a019c431c073c5b428345969512240c9
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_1_0.unity
+    guid: 135c8291e5963ea409eb10b5dc075a8c
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_1_1.unity
+    guid: 1c9921a579afb204d92bf0432efd264d
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_1_2.unity
+    guid: 7988000b775748349bb369151cffaca4
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_2_0.unity
+    guid: e6f26b1ad7f18e44591d22f250193138
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_2_1.unity
+    guid: d7eb7adb23c12e04bb98334c39ff852a
+  - enabled: 1
+    path: Assets/Scenes/Nathan_Scenes/Scene_2_2_2.unity
+    guid: c835bf7e66e4500448f99e5383acc3cd
+  - enabled: 1
+    path: Assets/Scenes/Hoang_Scenes/Title_Screen.unity
+    guid: 2674c1df9c6b9d5458b59c3bfa1a5a19
+  - enabled: 1
+    path: Assets/Scenes/Alex_Scenes/Movement Level.unity
+    guid: e58ee6338375c21428b113ace3c9054f
+  - enabled: 1
+    path: Assets/Scenes/Alex_Scenes/Key Puzzle.unity
+    guid: 2e9b6434a8566f845872fb3fe24f496b
+  - enabled: 1
+    path: Assets/Scenes/Alex_Scenes/Shooting Introduction.unity
+    guid: 289f1e272b465ee42ad804495c76eaf1
+  - enabled: 1
+    path: Assets/Scenes/Alex_Scenes/Boss Room.unity
+    guid: 9b04005c937dabf4f943e86262f544e5
+  - enabled: 1
+    path: Assets/Scenes/Debbie_Scenes/LevelManager.unity
+    guid: e24b45fc3a200144cbfbac25612e7551
+  m_configObjects: {}
