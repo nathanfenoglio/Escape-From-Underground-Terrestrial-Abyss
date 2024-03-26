@@ -1,4 +1,6 @@
-# Escape From Underground Terrestrial Abyss
+# Escape From Underground Terrestrial Abyss <br/>
+https://github.com/nathanfenoglio/Escape-From-Underground-Terrestrial-Abyss/blob/master/images/Title_Screen_Screenshot.jpg
+
 Video game made with Unity. 2D platformer with maze design, switches, keys to unlock doors, powerups, enemies, bosses. available to play at: <br/>
 https://simmer.io/@nathanfenoglio/escape-from-underground-terrestrial-abyss https://play.google.com/store/apps/details?id=com.TheATeam.EscapeFromUndergroundTerrestrialAbyss&pli=1<br/>
 <br/>
