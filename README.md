@@ -21,5 +21,3 @@ Nathan Fenoglio <br/>
 
 ![alt text](https://github.com/nathanfenoglio/Escape-From-Underground-Terrestrial-Abyss/blob/master/images/Screenshot_20210103-112110.png)
 <br/>
-
-![Hover Squid Test Animation](https://raw.githubusercontent.com/nathanfenoglio/Escape-From-Underground-Terrestrial-Abyss/master/images/HoverSquidTestAnimation.gif)
