@@ -8,7 +8,7 @@ https://simmer.io/@nathanfenoglio/escape-from-underground-terrestrial-abyss http
 ## Watch Playthrough <br/>
 https://www.youtube.com/watch?v=ar7niKAHrWI&t=3s
 <br/><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ar7niKAHrWI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch Playthrough](https://img.youtube.com/vi/ar7niKAHrWI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ar7niKAHrWI)
 
 ## View Cubeland Solution Path <br/>
 https://nathan-fenoglio.com/Cubeland_Solution_Path
